@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Alex%20Bernal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Alexis%20Bernal%20Perez%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Desarrollo+Web+%7C+Backend+%26+Frontend;An%C3%A1lisis+de+Datos+%7C+R+%26+Python;Explorando+IA+aplicada+%F0%9F%9A%80" />
 
