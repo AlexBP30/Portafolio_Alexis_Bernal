@@ -15,8 +15,8 @@
 ## 🧑‍💻 Sobre mí
 
 - 🗣️ **Comunicación efectiva:** me gusta documentar bien mis proyectos y explicar decisiones técnicas con claridad, tanto en equipo como en la entrega de resultados.
-- 🤝 **Trabajo en equipo:** he colaborado en proyectos multidisciplinarios (como Study.DAI) coordinándome de forma respetuosa con roles de diseño, backend y liderazgo de proyecto.
-- 🔄 **Adaptabilidad:** me muevo entre distintas tecnologías y metodologías (Joomla, Laravel, análisis de datos) sin perder el ritmo ante cambios de alcance o de equipo.
+- 🤝 **Trabajo en equipo:** he colaborado en proyectos multidisciplinarios coordinándome de forma respetuosa con roles de diseño, backend y liderazgo de proyecto.
+- 🔄 **Adaptabilidad:** me muevo entre distintas tecnologías y metodologías (Joomla, Laravel, análisis de datos, Scrum, Kanban ) sin perder el ritmo ante cambios de alcance o de equipo.
 - 🧠 **Pensamiento crítico:** aplico metodologías como CRISP-DM para analizar datos de forma lógica antes de sacar conclusiones o tomar decisiones.
 - 🌟 **Liderazgo:** me involucro activamente en la documentación y organización de los proyectos en los que participo, apoyando al equipo a mantenerse encaminado.
 
