@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Alexis%20Bernal%20Perez%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=ALEXIS%20BERNAL%20PEREZ%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Desarrollo+Web+%7C+Backend+%26+Frontend;An%C3%A1lisis+de+Datos+%7C+R+%26+Python;Explorando+IA+aplicada+%F0%9F%9A%80" />
 
@@ -13,6 +13,16 @@
 <br>
 
 ## 🧑‍💻 Sobre mí
+
+- 🗣️ **Comunicación efectiva:** me gusta documentar bien mis proyectos y explicar decisiones técnicas con claridad, tanto en equipo como en la entrega de resultados.
+- 🤝 **Trabajo en equipo:** he colaborado en proyectos multidisciplinarios (como Study.DAI) coordinándome de forma respetuosa con roles de diseño, backend y liderazgo de proyecto.
+- 🔄 **Adaptabilidad:** me muevo entre distintas tecnologías y metodologías (Joomla, Laravel, análisis de datos) sin perder el ritmo ante cambios de alcance o de equipo.
+- 🧠 **Pensamiento crítico:** aplico metodologías como CRISP-DM para analizar datos de forma lógica antes de sacar conclusiones o tomar decisiones.
+- 🌟 **Liderazgo:** me involucro activamente en la documentación y organización de los proyectos en los que participo, apoyando al equipo a mantenerse encaminado.
+
+<br>
+
+## 📌 Temas de interés
 
 - 💻 Desarrollo web full-stack (Joomla, Laravel, PHP) y análisis de datos con R y Python.
 - 📊 Análisis y visualización de datos con Power BI, R y Google Colab.
@@ -58,6 +68,7 @@ Universidad Tecnológica de Tlaxcala (UTT) — en curso
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/ggplot2-76B900?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge" />
