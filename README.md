@@ -15,8 +15,8 @@
 ## 🧑‍💻 Sobre mí
 
 - 🗣️ **Comunicación efectiva:** me gusta documentar bien mis proyectos y explicar decisiones técnicas con claridad, tanto en equipo como en la entrega de resultados.
-- 🤝 **Trabajo en equipo:** he colaborado en proyectos multidisciplinarios coordinándome de forma respetuosa con roles de diseño, backend y liderazgo de proyecto.
-- 🔄 **Adaptabilidad:** me muevo entre distintas tecnologías y metodologías (Joomla, Laravel, análisis de datos, Scrum, Kanban ) sin perder el ritmo ante cambios de alcance o de equipo.
+- 🤝 **Trabajo en equipo:** he colaborado en proyectos multidisciplinarios (como Study.DAI) coordinándome de forma respetuosa con roles de diseño, backend y liderazgo de proyecto.
+- 🔄 **Adaptabilidad:** me muevo entre distintas tecnologías y metodologías (Joomla, Laravel, análisis de datos) sin perder el ritmo ante cambios de alcance o de equipo.
 - 🧠 **Pensamiento crítico:** aplico metodologías como CRISP-DM para analizar datos de forma lógica antes de sacar conclusiones o tomar decisiones.
 - 🌟 **Liderazgo:** me involucro activamente en la documentación y organización de los proyectos en los que participo, apoyando al equipo a mantenerse encaminado.
 
@@ -80,6 +80,42 @@ Universidad Tecnológica de Tlaxcala (UTT) — en curso
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>🍔 Menú Inteligente</h3>
+      Kiosco de autoservicio y panel de administración en tiempo real. El cliente arma su pedido desde una pantalla táctil o su celular, personaliza ingredientes y extras, paga en efectivo, tarjeta o con Mercado Pago y sigue su pedido en vivo con un código QR. La cocina recibe los pedidos al instante con alertas sonoras, y el panel incluye gestión de menú, corte de caja, reportes con gráficas y tickets en PDF.
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mercado%20Pago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <br><br>
+      <a href="https://menu-inteligente-beta.vercel.app/">🔗 Ver sitio</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏋️ FitControl</h3>
+      Plataforma para gimnasios con dos caras: un panel web para el negocio (membresías, pagos y check-in con QR) y una app PWA para el socio (rutinas, planes de alimentación, registro de peso, glucosa y presión, y recordatorios de comida y agua). Las rutinas propuestas por IA siempre las aprueba un entrenador antes de llegar al socio, y los datos de salud solo los ven el socio y su entrenador.
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+      <br><br>
+      <a href="https://fitcontrol-six.vercel.app/login">🔗 Ver sitio</a>
+      <br><br>
+      <details>
+        <summary>🔑 Cuentas de prueba (Titán Gym Apizaco)</summary>
+        <br>
+        Gimnasio de ejemplo con 30 socios. Contraseña para todas: <code>FitControl2026!</code>
+        <br><br>
+        <b>Dueño:</b> <code>dueno@demo.fitcontrol.mx</code><br>
+        <b>Recepción:</b> <code>recepcion@demo.fitcontrol.mx</code><br>
+        <b>Entrenador:</b> <code>entrenador@demo.fitcontrol.mx</code><br>
+        <b>Socia (Ana Torres):</b> <code>socia@demo.fitcontrol.mx</code>
+      </details>
+    </td>
+    <td width="33%" valign="top">
       <h3>🏛️ AcaNexus</h3>
       Plataforma de portafolios basada en Joomla 5.4.6 + PHP 8.3 + MySQL. Template personalizado, corrección de bugs de UI y documentación completa del ciclo del proyecto (Scrum/Kanban, testing con Selenium/Katalon).
       <br><br>
@@ -89,6 +125,8 @@ Universidad Tecnológica de Tlaxcala (UTT) — en curso
       <br><br>
       <a href="https://drive.google.com/file/d/1NsBnp6sg3L00j5fgLq4mNsMVGQrTiE9g/view?usp=sharing">▶️ Ver demo</a>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>🛍️ E-commerce de Serigrafía</h3>
       Tienda en línea construida en Laravel + MySQL, con catálogo de productos, gestión de pedidos y autenticación de usuarios.
@@ -113,17 +151,20 @@ Universidad Tecnológica de Tlaxcala (UTT) — en curso
 
 <br>
 
-## 🎯 Certificaciones en curso
+## 🎯 Certificaciones
 
-<div align="center">
+**Obtenidas**
 
+- 🏅 **Fundamentos de Power BI** — Santander Open Academy (septiembre 2026)
+- 🏅 **Power BI Intermedio: Análisis y Modelado de Datos** — Santander Open Academy (septiembre 2026)
+
+**En curso**
+<br>
 <img src="https://img.shields.io/badge/Power%20BI%20Avanzado-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Anthropic%20Academy-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Meta%20Data%20Analyst-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-
-</div>
 
 <br>
 
