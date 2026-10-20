@@ -34,7 +34,11 @@
 
 **Ingeniería en Entornos Virtuales y Negocios Digitales**
 <br>
-Universidad Tecnológica de Tlaxcala (UTT) — en curso
+Universidad Tecnológica de Tlaxcala (UTT) — 2025 – presente
+<br><br>
+**Técnico Superior Universitario en Tecnologías de la Información, área Entornos Virtuales y Negocios Digitales**
+<br>
+Universidad Tecnológica de Tlaxcala (UTT) — 2023 – 2025 (titulado)
 
 <br>
 
@@ -103,7 +107,17 @@ Universidad Tecnológica de Tlaxcala (UTT) — en curso
       <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
       <br><br>
       <a href="https://fitcontrol-six.vercel.app/login">🔗 Ver sitio</a>
-      <br><br>      
+      <br><br>
+      <details>
+        <summary>🔑 Cuentas de prueba (Titán Gym Apizaco)</summary>
+        <br>
+        Gimnasio de ejemplo con 30 socios. Contraseña para todas: <code>FitControl2026!</code>
+        <br><br>
+        <b>Dueño:</b> <code>dueno@demo.fitcontrol.mx</code><br>
+        <b>Recepción:</b> <code>recepcion@demo.fitcontrol.mx</code><br>
+        <b>Entrenador:</b> <code>entrenador@demo.fitcontrol.mx</code><br>
+        <b>Socia (Ana Torres):</b> <code>socia@demo.fitcontrol.mx</code>
+      </details>
     </td>
     <td width="33%" valign="top">
       <h3>🏛️ AcaNexus</h3>
