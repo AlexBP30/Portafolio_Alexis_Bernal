@@ -57,6 +57,8 @@ Universidad Tecnológica de Tlaxcala (UTT) — 2023 – 2025 (titulado)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
 
@@ -84,6 +86,19 @@ Universidad Tecnológica de Tlaxcala (UTT) — 2023 – 2025 (titulado)
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>📅 AgendaYa</h3>
+      Plataforma de reservas en línea para negocios de servicios (barberías, estéticas, consultorios) y restaurantes. Cada negocio tiene su propia página con galería, servicios y mapa, donde el cliente agenda cita o mesa en menos de un minuto y recibe su confirmación con QR por WhatsApp. El dueño administra agenda diaria y semanal, clientes, profesionales con horarios por turnos, bloqueos y reportes; en modo restaurante, mesas por zona y llegadas sin reserva. Incluye panel de administrador con registro por invitación, control de pagos y protección con captcha y seguridad a nivel de fila (RLS).
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <br><br>
+      <a href="https://agendaya-mx.vercel.app/">🔗 Ver sitio</a>
+    </td>
+    <td width="33%" valign="top">
       <h3>🍔 Menú Inteligente</h3>
       Kiosco de autoservicio y panel de administración en tiempo real. El cliente arma su pedido desde una pantalla táctil o su celular, personaliza ingredientes y extras, paga en efectivo, tarjeta o con Mercado Pago y sigue su pedido en vivo con un código QR. La cocina recibe los pedidos al instante con alertas sonoras, y el panel incluye gestión de menú, corte de caja, reportes con gráficas y tickets en PDF.
       <br><br>
@@ -109,6 +124,8 @@ Universidad Tecnológica de Tlaxcala (UTT) — 2023 – 2025 (titulado)
       <a href="https://fitcontrol-six.vercel.app/login">🔗 Ver sitio</a>
       <br><br>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>🏛️ AcaNexus</h3>
       Plataforma de portafolios basada en Joomla 5.4.6 + PHP 8.3 + MySQL. Template personalizado, corrección de bugs de UI y documentación completa del ciclo del proyecto (Scrum/Kanban, testing con Selenium/Katalon).
@@ -119,8 +136,6 @@ Universidad Tecnológica de Tlaxcala (UTT) — 2023 – 2025 (titulado)
       <br><br>
       <a href="https://drive.google.com/file/d/1NsBnp6sg3L00j5fgLq4mNsMVGQrTiE9g/view?usp=sharing">▶️ Ver demo</a>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h3>🛍️ E-commerce de Serigrafía</h3>
       Tienda en línea construida en Laravel + MySQL, con catálogo de productos, gestión de pedidos y autenticación de usuarios.
